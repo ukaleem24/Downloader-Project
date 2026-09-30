@@ -8,7 +8,6 @@ __pycache__/
 .debug-profile/
 
 # Personal download queue and run logs - not part of the project
-links.txt
 download_log.txt
 *.log
 
